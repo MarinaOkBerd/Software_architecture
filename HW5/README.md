@@ -1,3 +1,3 @@
 ##  UML-диаграмма «Редактор 3D графики”.
-![](hw5.giagram.png)
+![](hw5.diagram.png)
 
